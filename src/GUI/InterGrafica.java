@@ -617,6 +617,7 @@ public class InterGrafica extends javax.swing.JFrame {
                             new java.awt.Color(0, 142, 199)));
             campo.setText("");
             campo.setForeground(Color.BLACK);
+            campo.setEditable(true);
         }
         
         this.Adv1.setVisible(false);
